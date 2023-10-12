@@ -1,0 +1,14 @@
+{
+  "name": "oddeven",
+  "version": "1.0.0",
+  "description": "Proyecto para comprobar si un número es par o impar",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
