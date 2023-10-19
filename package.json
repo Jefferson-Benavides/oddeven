@@ -1,12 +1,12 @@
 {
-  "name": "oddeven",
+  "name": "par-impar",
   "version": "1.0.0",
-  "description": "Proyecto para comprobar si un número es par o impar",
+  "description": "App para comprobar si un número es par o impar",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Tu Nombre",
+  "author": "benavidesjefferson18@gmail.com",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"

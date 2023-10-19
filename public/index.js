@@ -3,7 +3,7 @@ document.getElementById('numeroForm').addEventListener('submit', function (e) {
             const numero = parseInt(document.getElementById('numeroInput').value);
 
             if (isNaN(numero)) {
-                document.getElementById('resultado').innerText = 'El valor ingresado no es un número válido.';
+                document.getElementById('resultado').innerText = 'El valor ingresado no es un numero valido.';
             } else {
                 fetch('/comprobar', {
                     method: 'POST',
